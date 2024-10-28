@@ -1,8 +1,21 @@
-# React + Vite
+# FoodExplorer - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FoodExplorer é um site de restaurante onde os clientes podem escolher pratos do menu e realizar pedidos de forma prática e rápida. O frontend da aplicação oferece uma interface intuitiva para navegação e escolha de pratos.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
+- HTML, CSS, e JavaScript
+- React para componentes dinâmicos e interativos
+- Biblioteca de gerenciamento de estado (opcional)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Configuração do Ambiente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/FoodExplorer-frontend.git
+   cd FoodExplorer-frontend
+2. Instalação de Dependencias:
+   ```bash
+    npm install
+3. Start
+  ```bash
+  npm run dev
