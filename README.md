@@ -6,7 +6,7 @@ FoodExplorer é um site de restaurante onde os clientes podem escolher pratos do
 - HTML, CSS, e JavaScript
 - React para componentes dinâmicos e interativos
 
-##Site - Online
+## Site - Online
 - https://foodexplorer-rafinha.netlify.app/
 - Para entrar como Administrador 
    - Email: adm@email.com
