@@ -1,5 +1,6 @@
 import { Container, Label, FileInputWrapper, FileInputLabel } from "./styles";
 import UploadSimple from "../../assets/icons/UploadSimple.svg";
+import React from "react";
 
 export function Input({ icon: Icon, label, type = "text", ...rest }) {
     return (

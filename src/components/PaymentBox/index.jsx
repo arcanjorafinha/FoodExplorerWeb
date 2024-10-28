@@ -5,6 +5,7 @@ import credit from '../../assets/icons/CreditCard.svg';
 import qr from '../../assets/icons/Qrcode.svg';
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
+import React from "react";
 
 export function PaymentBox() {
     const [paymentMethod, setPaymentMethod] = useState('pix');

@@ -1,5 +1,6 @@
 import { Container } from './styles';
 import { Tag } from './../Tag';
+import React from "react";
 
 
 export function Note({ data, ...rest }) {

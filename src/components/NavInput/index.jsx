@@ -1,4 +1,5 @@
 import { Container } from "./styles";
+import React from "react";
 
 export function NavInput({ icon: Icon, label, ...rest }) {
     return (

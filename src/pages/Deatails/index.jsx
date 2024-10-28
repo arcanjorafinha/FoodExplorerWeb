@@ -7,6 +7,7 @@ import { Footer } from "../../components/Footer";
 import { Counter } from "../../components/Counter";
 import { Button } from "../../components/Button";
 import CaretLeft from "../../assets/icons/CaretLeft.svg";
+import React from "react";
 
 export function Details() {
   const [data, setData] = useState(null);

@@ -7,6 +7,7 @@ import { Footer } from "../../components/Footer";
 import { Select } from "../../components/Select";
 import CaretLeft from "../../assets/icons/CaretLeft.svg";
 import theme from "../../styles/theme";
+import React from "react";
 
 import { useNavigate, useParams } from "react-router-dom";
 import { useState, useEffect } from "react";

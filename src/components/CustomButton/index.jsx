@@ -1,4 +1,5 @@
 import { Container } from "./styles";
+import React from "react";
 
 export function CustomButton({ title, loading = false, bgColor, ...rest }) {
     return (

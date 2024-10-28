@@ -8,6 +8,7 @@ import { ButtonText } from "../../components/ButtonText"
 import { Footer } from "../../components/Footer"
 import { Select } from "../../components/Select"
 import CaretLeft from "../../assets/icons/CaretLeft.svg";
+import React from "react";
 
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";

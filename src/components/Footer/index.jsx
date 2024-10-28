@@ -1,5 +1,6 @@
 import { Container } from "./styles"
 import PolygonGrey from "../../assets/icons/PolygonGrey.svg"
+import React from "react";
 
 export function Footer() {
     return (

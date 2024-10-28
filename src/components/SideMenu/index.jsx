@@ -8,6 +8,7 @@ import { Footer } from "../../components/Footer"
 import { useAuth } from "../../hooks/auth";
 import { useNavigate } from "react-router-dom";
 import { USER_ROLE } from "../../utils/roles";
+import React from "react";
 
 export function SideMenu({ isOpen, onClose, onSearch }) {
     const { signOut } = useAuth();

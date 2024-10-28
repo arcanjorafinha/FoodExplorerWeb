@@ -1,5 +1,6 @@
 import { Container } from './styles';
 import { api } from '../../services/api';
+import React from "react";
 
 export function Order({ order, onRemove }) {
     const image = order.image ? `${api.defaults.baseURL}/files/${order.image}` : 'url/to/default/image.jpg';

@@ -1,4 +1,5 @@
 import { Container } from './styles';
+import React from "react";
 
 export function Select({ label, value, onChange }) {
     const options = [

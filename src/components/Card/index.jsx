@@ -9,6 +9,7 @@ import { USER_ROLE } from "../../utils/roles";
 import { useNavigate } from "react-router-dom";
 import { api } from "../../services/api";
 import { useCart } from "./../../hooks/cart";
+import React from "react";
 
 export function Card({ id, title, description, price, image }) {
     const navigate = useNavigate();

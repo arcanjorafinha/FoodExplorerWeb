@@ -5,6 +5,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { api } from "../../services/api"
 import Polygon from "../../assets/icons/Polygon.svg";
+import React from "react";
 
 export function SignUp() {
     const [name, setName] = useState("");

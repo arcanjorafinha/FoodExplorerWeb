@@ -3,6 +3,7 @@ import { Card } from '../Card';
 import { CaretLeft, CaretRight } from "@phosphor-icons/react";
 import { useRef } from "react";
 import { api } from "../../services/api";
+import React from "react";
 
 
 export function Carousel({ category, plates }) {

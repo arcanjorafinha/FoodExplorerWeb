@@ -7,6 +7,7 @@ import { Footer } from "../../components/Footer";
 import { Order } from "../../components/Order";
 import { PaymentBox } from "../../components/PaymentBox";
 import { useCart } from "../../hooks/cart";
+import React from "react";
 
 export function Orders() {
     const [data, setData] = useState(null);

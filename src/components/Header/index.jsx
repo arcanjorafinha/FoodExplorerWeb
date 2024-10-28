@@ -11,6 +11,7 @@ import Hamburger from "../../assets/icons/Menu.svg";
 import Add from "../../assets/icons/Add.svg";
 import { USER_ROLE } from "../../utils/roles";
 import { SideMenu } from '../SideMenu';
+import React from "react";
 
 export function Header({ onSearch }) {
     const [isMenuOpen, setIsMenuOpen] = useState(false);

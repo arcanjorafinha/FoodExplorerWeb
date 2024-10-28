@@ -8,6 +8,7 @@ import { Card } from '../../components/Card';
 import Macaron2 from '../../assets/plates/Macaron2.png';
 import CaretLeft from "../../assets/icons/CaretLeft.svg";
 import CaretRight from "../../assets/icons/CaretRight.svg";
+import React from "react";
 
 export function Home() {
     const [plates, setPlates] = useState({

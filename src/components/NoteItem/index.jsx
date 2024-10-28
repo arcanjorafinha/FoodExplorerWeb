@@ -1,4 +1,5 @@
 import { FiPlus, FiX } from 'react-icons/fi';
+import React from "react";
 
 import { Container } from './styles'
 
